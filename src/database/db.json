@@ -1,0 +1,64 @@
+{
+  "users": {
+    "6282392115909": {
+      "jid": "6282392115909",
+      "name": "ARIF",
+      "number": "6282392115909",
+      "limit": 25,
+      "isPremium": false,
+      "isBanned": false,
+      "exp": 0,
+      "level": 1,
+      "balance": 0,
+      "unlockedFeatures": [],
+      "registeredAt": "2026-01-12T16:48:28.812Z",
+      "lastSeen": "2026-01-12T17:06:33.822Z",
+      "cooldowns": {}
+    },
+    "6287822512610": {
+      "jid": "6287822512610",
+      "name": "BOT EKA",
+      "number": "6287822512610",
+      "limit": 25,
+      "isPremium": false,
+      "isBanned": false,
+      "exp": 0,
+      "level": 1,
+      "balance": 0,
+      "unlockedFeatures": [],
+      "registeredAt": "2026-01-13T02:13:17.207Z",
+      "lastSeen": "2026-01-13T02:13:17.207Z",
+      "cooldowns": {}
+    },
+    "172623342395502": {
+      "jid": "172623342395502",
+      "name": "ARIF",
+      "number": "172623342395502",
+      "limit": 25,
+      "isPremium": false,
+      "isBanned": false,
+      "exp": 0,
+      "level": 1,
+      "balance": 0,
+      "unlockedFeatures": [],
+      "registeredAt": "2026-01-13T02:13:44.369Z",
+      "lastSeen": "2026-01-13T03:11:37.886Z",
+      "cooldowns": {
+        "menu": 1768273297491
+      }
+    }
+  },
+  "groups": {},
+  "settings": {
+    "selfMode": false
+  },
+  "stats": {
+    "commandsExecuted": 13,
+    "command_menu": 11,
+    "command_sewabot": 2
+  },
+  "sewa": {
+    "enabled": false,
+    "groups": {}
+  }
+}

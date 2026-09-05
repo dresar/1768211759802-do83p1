@@ -1,0 +1,50 @@
+================================================================================
+                         INVYWED BOT - PANDUAN LENGKAP
+                    WhatsApp Bot Multi-Device by Invywed Team
+================================================================================
+
+Halo! Selamat datang di Invywed Bot. Panduan ini akan membantu kamu dari awal 
+hingga bot siap digunakan. Ikuti langkah-langkahnya dengan teliti!
+
+
+================================================================================
+                              PERSIAPAN AWAL
+================================================================================
+
+1. INSTALL NODE.JS
+   - Buka https://nodejs.org
+   - Download versi LTS (Long Term Support)
+   - Install seperti biasa, klik Next sampai selesai
+   - Untuk memastikan sudah terinstall, buka CMD/Terminal lalu ketik:
+     node -v
+     npm -v
+   - Jika muncul versi, berarti sudah work
+
+2. INSTALL GIT (Opsional, untuk update)
+   - Buka https://git-scm.com
+   - Download dan install
+   
+3. INSTALL FFMPEG (Untuk sticker video)
+   - Windows: Download dari https://www.gyan.dev/ffmpeg/builds/
+             Extract, lalu tambahkan ke PATH
+   - Linux: sudo apt install ffmpeg
+   - Mac: brew install ffmpeg
+
+
+================================================================================
+                           INSTALASI BOT
+================================================================================
+
+1. EXTRACT FILE
+   - Extract file zip ini ke folder yang kamu inginkan
+   - Contoh: D:\Invywed-Bot atau /home/user/Invywed-Bot
+
+2. BUKA TERMINAL/CMD
+   - Windows: Klik kanan di folder > Open in Terminal
+   - Atau tekan Win+R, ketik "cmd", lalu cd ke folder bot
+   - Contoh: cd D:\Invywed-Bot
+
+3. INSTALL DEPENDENCIES
+   - Ketik perintah ini dan tunggu sampai selesai:
+     npm install
+   - Proses ini membutuhkan waktu beberapa menit tergantung koneksi internet
